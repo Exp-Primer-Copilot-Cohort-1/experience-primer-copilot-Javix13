@@ -1,4 +1,4 @@
-function skillMembers() {
+function skillsMember() {
   return {
     name: 'skillMembers',
     members: [
